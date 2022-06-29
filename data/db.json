@@ -1,0 +1,180 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Mukammal Dasturlash",
+      "title": "Javascript",
+      "create": "Javlon Abdullo",
+      "price": "45 000",
+      "lang": "Uzbek",
+      "text": "Ushbu kitob zamonaviy dasturlashni o'rganmoqchi bo'lganlar, dasturlash bilan shug'ullanadiganlar va hatto dasturiy ta'minot yaratish bo'yicha yetuk mutaxassislarga ham mo'ljallangan bo'lib, ilm olish va uni mustahkamlash uchun eng kerakli bo'ladigan zaruriy bilimlarni o'zida jamlagan hamma sodda tushunarli tilda bayon etilgan. Ortiqcha ma'lumotlar o'rniga o'n yillab yig'ilgan tajribalardan foydalanib aniq ko'rsatmalar keltirilgan. Kitobdagi ma'lumotlarni o'zlashtirgan o'quvchi malakali veb-dizayner sifatida keng faoliyat yuritishdan tashqari nafaqat \"front-end\" (timusti) dasturlovchi bo'lishi mumkin, balki to'laqonli veb-dasturiy ta'minot yaratish borasida yetuk bilimlarga ham ega bo'ladi.\nKitobda yoritilgan mavzular bo'yicha fikr-mulohazalar, takliflar, savollar hamda o'z amaliy dasturlash faoliyatingizda muamolar yuzaga kelsa, ilm.yurt.uz sayti orqali murojaat qilishingiz mumkin.",
+      "publish": "Akademnash",
+      "img": "https://assets.asaxiy.uz/product/main_image/desktop//6027cd2c06462.jpg.webp"
+    },
+    {
+      "id": 2,
+      "name": "Mukammal Dasturlash",
+      "title": "Html & Css",
+      "create": "Javlon Abdullo",
+      "price": "30 000",
+      "lang": "Uzbek",
+      "text": "“Mukammal dasturlash” kitobi. Ushbu kitob dasturlashni o‘rganmoqchi bo‘lganlar, dasturlash bilan shug‘ullanadiganlar, hatto dasturiy ta’minot yaratish bo‘yicha yetuk mutaxassislar uchun ham mo‘ljallangan.\n\nKitob ilm olishda juda oson, tushunarli tilda bayon etilgan, ortiqcha ma’lumotlar o‘rniga o‘n yildan ziyod amaliy ishlash jarayonida orttirilgan hayotiy tajribalardan kelib chiqib Javlon Abdullo tomonidan yozilgan.\n\n\uD83E\uDDD1\uD83C\uDFFB\u200D\uD83D\uDCBB Veb-dizaynerlikni noldan mukammallik darajasigacha batafsil o‘rgatuvchi qo‘llanma bo‘lib, HTML va SSS dasturlash tillari haqida to‘liq ma‘lumotga ega bo‘lasiz.",
+      "publish": "Akademnash",
+      "img": "https://assets.asaxiy.uz/product/main_image/desktop//61010b1eaa40e.jpg.webp"
+    },
+    {
+      "id": 3,
+      "name": " Паттерны разработки на Python. TDD, DDD и событийно-ориентированная архитектура",
+      "title": "Python",
+      "create": "Гарри Персиваль, Боб Грегори",
+      "price": "30 000",
+      "lang": "Russian",
+      "text": "Популярность Python продолжает расти, а значит, проекты, созданные на этом языке программирования, становятся все масштабнее и сложнее. Многие разработчики проявляют интерес к высокоуровневым паттернам проектирования, таким как чистая и событийно-управляемая архитектура и паттерны предметно-ориентированного проектирования (DDD). Но их адаптация под Python не всегда очевидна.\n\nГарри Персиваль и Боб Грегори познакомят вас с проверенными паттернами, чтобы каждый питонист мог управлять сложностью приложений и получать максимальную отдачу от тестов. Теория подкреплена примерами на чистом Python, лишенном синтаксической избыточности Java и C#.",
+      "publish": "Akademnash",
+      "img": "https://assets.asaxiy.uz/product/main_image/desktop//61fb7288edc8e.jpg.webp"
+    },
+    {
+      "id": 4,
+      "name": "0 dan 100 gacha",
+      "title": "Python",
+      "create": "Jeymi Chan",
+      "price": "59 000",
+      "lang": "Uzbek",
+      "text": "Python dasturlash va umumiy dasturlashni 0 dan o'rganmoqchi bo'lgan insonlar uchun!",
+      "publish": "Akademnash",
+      "img": "https://assets.asaxiy.uz/product/main_image/desktop//6203a606641f5.png.webp"
+    },
+    {
+      "id": 5,
+      "name": "Изучаем Python.",
+      "price": "33 000",
+      "lang": "Russian",
+      "title": "Python",
+      "create": "Эрик Мэтиз",
+      "text": "Изучаем Python - это самое популярное в мире руководство по языку Python. Вы сможете не только максимально быстро его освоить, но и научитесь писать программы, устранять ошибки и создавать работающие приложения.\nВ первой части книги вы познакомитесь с основными концепциями программирования, такими как переменные, списки, классы и циклы, а простые упражнения приучат вас к шаблонам чистого кода. Вы узнаете, как делать программы интерактивными и как протестировать код, прежде чем добавлять в проект. Во второй части вы примените новые знания на практике и создадите три проекта: аркадную игру в стиле Space Invaders, визуализацию данных с удобными библиотеками Python и простое веб-приложение, которое можно быстро развернуть онлайн.",
+      "publish": "Akademnash",
+      "img": "https://assets.asaxiy.uz/product/main_image/desktop//6229dc81839e9.jpg.webp"
+    },
+    {
+      "id": 6,
+      "price": "28000",
+      "name": "The good parts",
+      "lang": "English",
+      "title": "Javascript",
+      "create": "Douglas Crockfont",
+      "text": "Ushbu kitob zamonaviy dasturlashni o'rganmoqchi bo'lganlar, dasturlash bilan shug'ullanadiganlar va hatto dasturiy ta'minot yaratish bo'yicha yetuk mutaxassislarga ham mo'ljallangan bo'lib, ilm olish va uni mustahkamlash uchun eng kerakli bo'ladigan zaruriy bilimlarni o'zida jamlagan hamma sodda tushunarli tilda bayon etilgan. Ortiqcha ma'lumotlar o'rniga o'n yillab yig'ilgan tajribalardan foydalanib aniq ko'rsatmalar keltirilgan. Kitobdagi ma'lumotlarni o'zlashtirgan o'quvchi malakali veb-dizayner sifatida keng faoliyat yuritishdan tashqari nafaqat \"front-end\" (timusti) dasturlovchi bo'lishi mumkin, balki to'laqonli veb-dasturiy ta'minot yaratish borasida yetuk bilimlarga ham ega bo'ladi.\nKitobda yoritilgan mavzular bo'yicha fikr-mulohazalar, takliflar, savollar hamda o'z amaliy dasturlash faoliyatingizda muamolar yuzaga kelsa, ilm.yurt.uz sayti orqali murojaat qilishingiz mumkin.",
+      "publish": "Akademnash",
+      "img": "https://media.karousell.com/media/photos/products/2021/11/14/javascript_the_good_parts_1636861036_9d8b918f.jpg"
+    },{
+      "id": 7,
+      "name": "Mo'minnig me'roji",
+      "price": "70 000",
+      "lang": "Uzbek",
+      "title": "Diniy",
+      "create": "Shayx Muxammad Sodiq Muxammad Yusuf",
+      "text": "Mufassal namoz kitobi!",
+      "publish": "Hilol",
+      "img": "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/001_hilol_nashr/001_diniy/muminning-meroji-kiril-web-250x375.jpg"
+    },{
+      "id": 8,
+      "name": "Alkimyogar",
+      "price": "25 000",
+      "lang": "Uzbek",
+      "title": "Badiy to'qima obraz!",
+      "create": "Paulo Koelo",
+      "text": "Badiy to'qima kitob!",
+      "publish": "Akademnash",
+      "img": "https://kitoblardunyosi.uz/image/cache/catalog/badiiy_adabiyot/alkimyogar-web-500x750.jpg"
+    },{
+      "id": 9,
+      "name": "Diqqat",
+      "price": "29 000",
+      "title": "Chalg‘ituvchi dunyoda muvaffaqiyat sirlari.",
+      "lang": "Uzbek",
+      "create": "Kel Nyuport",
+      "text": "AQSHlik professor Kel Nyuportning «Diqqat: Chalg‘ituvchi dunyoda muvaffaqiyat sirlari» kitobi ilk marotaba o‘zbek tiliga tarjima qilindi. Kitob uchun oldindan buyurtma e’lon qilinmoqda.\n\nIshda, o‘qishda diqqatingizni jamlay olmaysizmi? Doim telegram, instagram va boshqa ijtimoiy tarmoqlar sizni chalg‘itadimi? Demak, AQSHlik professor Kel Nyuportning maslahatlari aynan siz uchun. Diqqatni jamlab, chalg‘imasdan o‘z faoliyati bilan shug‘ullanish muammoga aylangan zamonda professor o‘zining ilmiy asosga ega maslahatlari bilan sizga yordamga keladi.",
+      "publish": "biznes",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/621fbd17da27241c58015eabe4164a522022042721305642246eQJCATLbnw.jpg.webp"
+    },{
+      "id": 10,
+      "name": "O'lsang kim yig'laydi.",
+      "price": "29 000",
+      "title": "O'lsang kim yig'laydi.",
+      "create": "Roben Sharmar",
+      "lang": "Uzbek",
+      "text": "Ҳали бола пайтимда отам айтган бир ўгитни умр бўйи ёдимдан чиқармайман:\n- Ўғлим, сен туғилганингда йиғлаган эдинг, дунё эса шод-хуррам эди. Шундай яшагинки, вафот этаётганингда дунё йиғласин, сен эса шод-хуррам бўл.\n \nБиз аслида ҳамма ҳаётнинг ўзи нима эканлигини унутган даврда яшаяпмиз. Биз инсонни бемалол Ойга йўллай оламиз, лекин шундоқ ёнимизга кўчиб келган янги қўшнилар билан танишишга сира фурсат тополмаймиз. Биз баллистик ракетани ер шарининг бошқа қисмига учириб, мўлжалга аниқ ура оламиз, бироқ негадир болалар билан кутубхонага боришни доимо орқага сурамиз. Бизда бир-биримиз билан алоқани йўқотиб қўймаслик учун электрон почта, факслар, уяли телефонлар бор, аммо инсоният ҳали ҳеч қачон бу қадар тарқоқ бўлмаган.",
+      "publish": "Biznes",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/e0f48988114ada340782b2354c906ebc2020120916245217810L3SDzL9FOP.jpg.webp"
+    },
+    {
+      "id": 11,
+      "name": "Alif",
+      "price": "35 000",
+      "title": "Alif",
+      "create": "Paulo Koelo",
+      "lang": "Uzbek",
+      "text": "Алиф шундай қудратли бир меҳварки, унда жам бўлган, бирлашган кишилар, параллел оламга саёҳат қилиши мумкин. Аммо бу бирлашув қувватига ҳар ким ҳам дош бера олмайди. Алифда бўлиш учун киши ўз нафси, майллари устидан ғолиб бўлмоғи даркор. \n\nУшбу асар суфийлик, шаманлик ва турли диний таълимотлар ҳақида маълумотларга бой. Инжил ва Қуръондан ҳам оятлар, шарҳлар келтирилган. Унда ҳаётда биргина вақт борлиги, у ҳам бўлса, ҳозирги вақт экани айтилади.  Вақт турғун эмас. У мудом илгарилайди. Биз унинг маълум бир нуқтасида мавжудмиз, холос.",
+      "publish": "Biznes",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/818de4d2ec21cfcb149ced7a5bed25ab2022042721370919249Io0G7IrzGp.jpg.webp"
+    },
+    {
+      "id": 12,
+      "name": "Stiv Jobs",
+      "price": "99 000",
+      "title": "Biografiya",
+      "lang": "Uzbek",
+      "create": "Isaacson Walter",
+      "text": "Hozirda dunyodagi eng qimmat, yetakchi, sifatli bol'lgan Apple kompaniyya asoschilaridan bo'lgan Stiv Jobs ning hayoti davomida bosib o'tgan yo'li qiyichik va muvaffaqqiyatlari haqida so'zlovchi kitob. Shaxsiy rivojlanishni istaganlar uchun oqish tavsiya etiladi.",
+      "publish": "Akademnash",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/4f87658ef0de194413056248a00ce0092021091521170352200YiYSZq82pM.jpg.webp"
+    },
+    {
+      "id": 13,
+      "name": "Million dollarlik xatolar.",
+      "price": "65 000",
+      "title": "Biznes",
+      "lang": "Uzbek",
+      "create": "Pavel Annekov",
+      "text": "Қўлингиздаги ушбу китоб айни пайтдаги тадбиркор томонидан ёзилган.\n Ушбу китоб орқали сиз амалдаги тадбиркорнинг билим ва тажрибаларига эга бўласиз. Албатта, фаолият давомида бизнесни барбод қилишга оид омиллар етарлича топилади. Ушбу китоб сизларни ана шу хатолар билан бирма-бир таништиради. Чунки тадбиркорлик фаолиятини юритаётган инсон ана шу хатоларга дуч келиши аниқ. Шундай экан, ушбу китоб Сизларга яқин кўмакчи бўлади, деб ўйлаймиз",
+      "publish": "Akademnashr",
+      "img": "https://assets.asaxiy.uz/product/main_image/desktop//605f3f06dc83c.png.webp"
+    },
+    {
+      "id": 14,
+      "name": "Samaradorlikning 21 yo'li",
+      "price": "25 000",
+      "title": "Biznes",
+      "lang": "Uzbek",
+      "create": "Brayan Treysi",
+      "text": "Kitob vaqtni to‘g‘ri taqsimlash, ish yoki o‘qish jarayonini tashkillashtirish, hayot tarzini o‘zgartirish, natijada qanday qilib samaradorlikka erishish haqida nazariyadan uzoq, aniq maʼlumot va qo‘llanmalarni beradi.\n\nKitob talabalar, tadbirkorlar, ishchilar, rahbarlar, kuni va vaqtini tartibni solishni xohlaydigan hatto uy bekalariga ham tavsiya qilinadi.",
+      "publish": "Akademnashr",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/4e0223a87610176ef0d24ef6d2dcde3a2022012619210383165TMzTh3krZb.jpg.webp"
+    },
+    {
+      "id": 15,
+      "name": "Mening hayotim",
+      "price": "59 000",
+      "title": "Biografiya",
+      "lang": "Uzbek",
+      "create": "Henri Ford",
+      "text": "Dunyoning yuzlab mamlakatlarida minglab marta millionlab adadlarda nashr etilgan bu avtobiografik kitobni XX asrning buyuk menejerlaridan biri, ishlab chiqarishda oqim-konveyer yo‘lini joriy etgan, AQSH avtomobil sanoatining “otasi”, milliarder Henri Ford yozgan. Ford hayotining tilsimlari, muvaffaqiyatining sirlari haqida ko‘plab asarlar bitilgan. Bu kitob uning o‘zi yozgan, yorqin, timsolli, qatʼiyat va ilhom bilan bitilgan asardir. Fordning bu hayotnomasi tarixiy qimmatidan tashqari, bugun ham islohotlar o‘tkazayotgan va o‘z ishi hamda hayotini ijodiy o‘zgartirishga chog‘lagan iqtisodchilar, injenerlar, konstruktorlar, ruhshunoslar, sotsiologlar, biznes tashkilotchilari va rahbarlari, hayotda muvaffaqiyatga erishaman degan har bir odam uchun dolzarb asardir.",
+      "publish": "Akademnashr",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/01083da2df15d6ebfe62186418a768632020110619522239966wtsBWUg1qj.jpg.webp"
+    },
+    {
+      "id": 16,
+      "name": "Boy ota, kambag'al ota",
+      "price": "30 000",
+      "title": "Biznes",
+      "lang": "Uzbek",
+      "create": "Robert Kiyosaki",
+      "text": "Har kim o‘z farzandiga bilganicha taʼlim-tarbiya beradi. Bu borada hammaning o‘z qarashi bor. Ammo kelajak kimning yo‘li to‘g‘riroq ekanini, albatta, ko‘rsatadi... Mazkur kitobda boy va kambag‘al toifadagi otalarning fikr-mulohazalarini, bu xususdagi tamoyillarini keltirar ekanmiz, siz azizlarda solishtirish imkoni mavjud bo‘ladi. Xulosani o‘zingiz chiqaring. Kitob sizga manzur bo‘ladi va yordam beradi, degan umiddamiz.",
+      "publish": "Akademnashr",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/23af4e005726f6b4852157fd30cd327c2021021016164681605SXUEy8Xzph.jpg.webp"
+    }
+  ],
+  "cart": [
+
+  ]
+}
+
