@@ -32,4 +32,11 @@ npm run build
 
 ```sh
 npm run lint
-```
+''''
+
+for backend
+
+npm install json-server
+
+npm run db:serve
+
